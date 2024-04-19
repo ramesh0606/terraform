@@ -14,7 +14,6 @@ sh "mkdir -p newtest1"
 sh "pwd"
 sh "terraform init"
 sh "terraform plan"
-#sh "terraform plan"
 
 
 }
