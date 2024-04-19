@@ -11,6 +11,7 @@ steps{
 echo 'Hello world!'
 echo "current working directory, $PWD"
 sh "mkdir -p newtest1"
+sh "pwd"
 
 
 }
