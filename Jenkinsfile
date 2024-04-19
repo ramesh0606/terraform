@@ -15,6 +15,7 @@ sh "pwd"
 sh "terraform init"
 sh "terraform plan"
 sh "terraform version"
+sh "terraform apply --auto-approve"
 
 }
 
