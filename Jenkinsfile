@@ -13,7 +13,6 @@ pipeline {
             echo "this is test block"
          }   
         }
-                
-        }
+
     }
 }
