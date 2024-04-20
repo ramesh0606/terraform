@@ -4,6 +4,7 @@ pipeline {
         stage ("build"){
          steps{
             echo "this is build block"
+            sh "terraform version"
          }   
         }
 
