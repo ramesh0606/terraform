@@ -10,3 +10,9 @@ variable "secret_key_var" {
   default = "tnaQnogT0BqYj1DnzphqzydwqCJ9cTji/prrRaNn"
 
 }
+
+variable "jenkin_test" {
+  type    = string
+  #default = "tnaQnogT0BqYj1DnzphqzydwqCJ9cTji/prrRaNn"
+
+}
