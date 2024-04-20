@@ -13,12 +13,7 @@ pipeline {
             echo "this is test block"
          }   
         }
-
-            stage ("deploy"){
-         steps{
-            echo "this is deploy block"
-         }   
-        
+                
         }
     }
 }
